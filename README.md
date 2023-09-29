@@ -1,4 +1,4 @@
-ICT601A2 Job Market Sentiment Analysis Dashboard (Tableau)
+# ICT601A2 Job Market Sentiment Analysis Dashboard (Tableau)
 
 The COVID-19 pandemic has had a significant impact on the global job market, leading to new trends and challenges for organizations and individuals alike. This project investigates the effects and sentiments of work from home (WFH) in the new hybrid work setting and other emerging trends in the job market through the analysis of multiple open-sourced datasets, including those from the US Bureau of Labor Statistics and Kaggle.
 
